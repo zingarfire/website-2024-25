@@ -24,8 +24,10 @@ console.log("il risultato della somma è = " + risultatosomma)
 
 //---------------------------------------------------------------------------
 
+
 function sePari(numero){
-if(numero % 2) 
+if(numero % 2)
+     
 }
 
 
